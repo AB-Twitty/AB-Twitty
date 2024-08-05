@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Fawzy</h1>
 <h3 align="center">Enthusiastic Junior Programmer with a strong background in ASP.NET development, eager to contribute to cutting-edge projects in software engineering. Skilled in C#, ASP.NET, JavaScript, and SQL Server. Adept at collaborating with cross-functional teams to deliver efficient solutions that drive customer satisfaction. Committed to innovation and continuous learning in line with the latest trends and technologies.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+
 - 🔭 I’m currently working on [RenoCare](https://github.com/AB-Twitty/RenoCare)
 
 - 🌱 I’m currently learning **ASP.NET, .NET Core, ReactJS**
