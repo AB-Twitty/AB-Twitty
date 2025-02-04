@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [RenoCare](https://github.com/AB-Twitty/RenoCare)
+- 🔭 I’m currently working on [Facebook-Automation][(https://github.com/AB-Twitty/RenoCare)](https://github.com/AB-Twitty/Facebook-Automation)
 
-- 🌱 I’m currently learning **ASP.NET, .NET Core, ReactJS**
+- 🌱 I’m currently learning **ASP.NET, .NET Core, RabbitMQ, Docker, Kubernetes**
 
 - 📫 How to reach me **abdelrahmanfawzy003@gmail.com**
 
